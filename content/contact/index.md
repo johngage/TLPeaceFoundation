@@ -1,30 +1,31 @@
 ---
-title: Contact
-date: 2022-10-24
+title: Contact us in Nairobi or in Ngong
+date: 2024-02-03T02:07:43.031Z
 
 type: landing
 
 sections:
   - block: contact
-    content:
-      title: Contact
+    content: 
+      title: TLPF Administrator Office
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        The Tegla Loroupe Peace Foundation main office is in Nairobi, in a new location in Lavington.  
+      email: admin@teglapeace.org
+      phone: +254 20 8005339
+
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
+        street: 'Leroghi Lane, Off Mbaazi Rd, Lavington'
+        city: Nairobi
+        region: ''
+        postcode: ''
+        country: Kenya
         country_code: US
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '-1.276389'
+        longitude: '36.777000'
+      directions: Enter Building 
       office_hours:
-        - 'Monday 10:00 to 13:00'
+        - 'Monday 9:00 to 16:00'
         - 'Wednesday 09:00 to 10:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
@@ -36,20 +37,32 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
+   # Email form provider
+    #  form:
+    #    provider: netlify
+    #    formspree:
+    #    id:
+    #    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+    #        captcha: false
+    #  design:
+    #    columns: '1'
+
+    #content:
+    #  autolink: true
+    #  form:
+    #    provider: netlify
+    #    formspree:
+    #       id
+    #    netlify:
+    #      captcha: false
+    #   headless: true
+    #   design:
+     #    columns: "1"
 
   - block: markdown
     content:
-      title:
+      title: Administrator
       subtitle: ''
       text:
     design:
@@ -65,5 +78,16 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+#      css_class: fullscreen
 ---
+
+<hr>
+
+Contact Brian Wasike at +254 701 286055
+<hr>
+
+For ten years, the office was on the second floor of the main office building at Shalom House, close to Ngong Road, near Junction. In late 2020, the office moved to its current location. 
+<hr>
+The [Tegla Loroupe Olympic Refugee Training Camp](http://bit.ly/37Y0sc3) is located in the town of Ngong, fifteen kilometers to the west of Nairobi. Click to see the location, and for driving instructions.
+<hr>
+In the United States, the Tegla Loroupe Peace Foundation is represented by the Tegla Loroupe Peace Organization, organized under United States law as a charitable 501(c)(3) non-profit organization. You may reach their Chief Representative, John Gage, at john.gage@teglapeace.org.

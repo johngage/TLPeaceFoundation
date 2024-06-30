@@ -10,17 +10,17 @@ last_name: Gage
 superuser: true
 
 # Role/position
-role: Board Member
+role: Board Advisor
 
 # Organizations/Affiliations
 organizations:
   - name: UC Berkeley
-    url: ''
+    url: 'https://www.berkeley.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Built Kibera Town Centre Water Community
 interests:
-  - Clean Water Testing and Digital Twin
+  - Clean Water; Infrastructure Digital Twin
   - Distributed Fiber Optic Sensing
   - Mathematics Education
 education:
@@ -28,6 +28,9 @@ education:
     - course: Water Engineering
       institution: UC Berkeley
       year: 2023
+    - course: VP,Science; Chief Researcher
+      institution: Sun Microsystems
+      year:  1982 - 2010
     - course: Public Policy
       institution: Harvard Kennedy School
       year: 1972

@@ -6,8 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  mode:  dark
+  color:  blue
+  theme_day: ocean
+  theme_night:  minimal
   font: native
   font_size: L
 

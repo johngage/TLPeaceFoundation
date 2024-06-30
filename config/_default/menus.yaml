@@ -1,149 +1,155 @@
 menu:
   - {}
 main:
-  - name: Home1
-    identifier: home
-    url: /
+  - name: Home
+    url: '#'
     weight: 10
   - name: About Us
-    identifier: briefabout
-    parent: home
-    url: tags/academic/
+    identifier: about
+    url: /AB
+    weight: 10
+  - name: Who We Are
+    pageRef: /AB
+    parent: about
+    weight: 10.5
+  - name: Ambassador Tegla Loroupe
+    identifier: TL
+    parent: about
+    pageRef: post/ambassador-tegla-loroupe
     weight: 11
-  - name: Current Projects
-    identifier: currentprojects
-    parent: home
-    url: tags/academic/
+  - name:  Current Projects
+    parent: about
+    url: /project
     weight: 12
-  - name: Success Highlights
-    identifier: success
-    parent: home
-    url: tags/academic/
+  - name:  Education for Peace
+    parent: about
+    url: project/new-faculty-at-kapenguria-peace-academy
     weight: 13
-  - name: Partners
+  - name:  Partners
     identifier: partners
-    parent: home
-    url: tags/academic/
+    parent: about
+    url: post/our-partners
     weight: 14
-  - name: About Us
-    identifier: about_us
-    url: '#about-us'
+  - name:  section-one
+    identifier: section-one
+    parent: about
+    url: /#section-1
+    weight: 15
+  - name:  Overview
+    identifier: overview
+    url: /overview
     weight: 20
   - name: Mission
     identifier: mission
-    parent: about_us
-    url: tags/academic/
+    parent: overview
+    url: /overview/mission
     weight: 21
   - name: Vision
     identifier: vision
-    parent: about_us
-    url: tags/academic/
+    parent: overview
+    url: /overview/vision
     weight: 22
   - name: History
     identifier: history
-    parent: about_us
-    url: tags/academic/
+    parent: overview
+    url: /overview/history
     weight: 23
   - name: Foundation Values
     identifier: foundation
-    parent: vision
+    parent: overview
     url: tags/academic/
     weight: 24
   - name: Governance and Management
     identifier: governance
-    parent: about_us
-    url: tags/academic/
+    parent: overview
+    url: /overview/governance
     weight: 25
-  - name: Footer
-    identifier: footer1
-    parent: governance
-    url: tags/academic/
-    weight: 26
+  
   - name: Projects
     identifier: projects
-    url: '#projects'
+    pageRef: /project
     weight: 30
-  - name: All Projects
+  - name: Kapenguria Peace Academy Faculty
     identifier: allprojects
     parent: projects
-    url: tags/academic/
+    pageRef: project/new-faculty-at-kapenguria-peace-academy
     weight: 31
-  - name: Current Projects
+  - name: Kakuma Refugee Camp Family Center
     identifier: currentprojects
     parent: projects
-    url: tags/academic/
+    pageRef: project/refugee-camp-family-center
     weight: 32
-  - name: Our Success
+  - name: Sports Training Center
     identifier: success
     parent: projects
-    url: tags/academic/
+    pageRef: project/the-tegla-loroupe-sports-training-center
     weight: 34
+  - name: Peace Academy Dormitory
+    parent: projects
+    pageRef: project/project-build-new-dormitory-at-kapenguria-school
+    weight: 34
+
   - name: Media Center
     identifier: media_center
-    url: post
+    url: /post
     weight: 40
   - name: Newsletters
     identifier: newsletters
     parent: media_center
-    url: tags/academic/
+    pageRef: /post
     weight: 41
-  - name: Events/Activities
-    identifier: eventsactivities
-    parent: newsletters
-    url: tags/academic/
-    weight: 41
+  - name: Blog Posts  
+    parent: media_center
+    pageRef: /blog
+    weight: 45
   - name: Gallery
     identifier: gallery
     parent: media_center
-    url: tags/academic/
-    weight: 42
+    pageRef: /tour
+    weight: 46
   - name: Recent Activities
     identifier: recent
     parent: media_center
-    url: tags/academic/
+    pageRef: /event
     weight: 43
   - name: Reports
     identifier: reports
     parent: media_center
-    url: tags/academic/
+    pageRef: /post
     weight: 44
-  - name: Footer
-    identifier: footer
-    parent: reports
-    url: tags/academic/
-    weight: 45
+  
   - name: Support/Join Us
     identifier: support
-    url: donate
+    pageRef: /donate
     weight: 50
   - name: Current Project Highlights
     identifier: currenthighlights
     parent: support
-    url: tags/academic/
+    pageRef: /donate
     weight: 51
   - name: Payment Details
     identifier: paymentdetails
     parent: support
-    url: tags/academic/
+    url: /donate/donation-details
     weight: 52
   - name: Contact Us
     identifier: contact
-    url: contact
+    url: contact/
     weight: 60
   - name: Contact Form
     identifier: contactform
     parent: contact
-    url: tags/academic/
+    url: contact/
     weight: 61
   - name: Map
     identifier: map
     parent: contact
-    url: tags/academic/
+    url: contact/#contact
     weight: 62
   - name: FAQ
     identifier: faq
     parent: contact
-    url: tags/academic/
+    url: contact/
     weight: 63
 main_right:
   - name: Courses

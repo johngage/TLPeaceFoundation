@@ -20,10 +20,21 @@ toc: true
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Now, with generative AI languge models, you can go much farther, much faster.
+The demand for skilled data science practitioners is rapidly growing. Now, with generative AI language models, you can go much farther, much faster.
 ## Courses in this program
 - Creating intelligent queries in GPT-4
-- Writing all new materials in Swahili, English, French, Pokot, Nandi, and Marakwet
+- Writing new materials in Swahili, English, French, Pokot, Nandi, and Marakwet
+- Building language models for Pokot, Nandi, Karamajong, Marakwet, Turkana and other languages of the nomadic communities served by TLPF
+    - Cushitic languages
+      - Somali, Orma, Gabbra, Rendille
+    - Nilotic languages
+        - Luo, Dholuo,
+        - Pokot, Nandi, Terik, Kipsigis, Keiyo, Elgeyo, Tugen, Maa, Okiek, Sabaot
+        - Turkana, Maa, Marakwet
+    - Bantu languages
+        - Swahili, Kikamba, Gikuyu, Meru, Chuka, Kiembu, Luhya, Kisii, Kuria
+    
+
 
 {{< list_children >}}
 

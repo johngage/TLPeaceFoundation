@@ -7,7 +7,7 @@ event_url: https://example.org
 location: Juba, South Sudan
 address:
   
-summary: South Sudanese Olympians celebrate opening of Olympic season with Ambasador Tegla Loroupe
+summary: South Sudanese Olympians celebrate opening of Olympic season with Ambassador Tegla Loroupe
 abstract: 'Celebrations and performances in South Sudan as they officially began the Olympics count down yesterday. TLPF is proud to have helped train and mentor one of the South Sudanese olympians under our Athletes Refugee Program.'
 
 # Talk start and end times.

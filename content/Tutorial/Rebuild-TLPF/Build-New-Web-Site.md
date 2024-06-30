@@ -7,10 +7,17 @@ type: book
 
 
 ## Major steps
-1. Get domain name
+1. Get domain name: Teglapeace.org
+
 2. Get mail account
+
 3. Get web server: Netlify
-4. Get Static Site Builder: Hugo, through Wowchemy
+
+4. Get Static Site Builder: Hugo, through Wowchemy, now Hugo Blox
+
 5. Get Github account
+
 6. Get git support
-7. Get local editor: VSCodium
+
+7. Get local editor: VSCode
+

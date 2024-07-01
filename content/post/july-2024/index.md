@@ -14,4 +14,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Add Nairobi staff
+Add Nairobi staff. and global partners

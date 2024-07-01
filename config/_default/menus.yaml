@@ -30,7 +30,7 @@ main:
     parent: about
     url: post/our-partners
     weight: 14
-  - name:  section-one
+  - name:  North Rift Peace Initiative
     identifier: section-one
     parent: about
     url: /#section-1

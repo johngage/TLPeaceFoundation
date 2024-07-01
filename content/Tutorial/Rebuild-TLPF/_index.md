@@ -30,9 +30,14 @@ The demand for skilled data science practitioners is rapidly growing. Now, with 
     - Nilotic languages
         - Luo, Dholuo,
         - Pokot, Nandi, Terik, Kipsigis, Keiyo, Elgeyo, Tugen, Maa, Okiek, Sabaot
-        - Turkana, Maa, Marakwet
+        - Turkana, Maa, Marakwet, Samburu
     - Bantu languages
         - Swahili, Kikamba, Gikuyu, Meru, Chuka, Kiembu, Luhya, Kisii, Kuria
+    - Nubian languages
+        - ki-Nubi
+        - كي-نوبي,
+    - Gujarati
+        - Kutchi-Swahili
     
 
 

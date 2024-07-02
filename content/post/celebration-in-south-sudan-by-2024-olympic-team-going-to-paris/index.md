@@ -19,6 +19,6 @@ image:
   preview_only: false
   caption: South Sudan 2024 Olympic Team
 ---
-Ambassador Tegla Loroupe visited Juba, South Sudan to meet with the Ministry of Youth and Sport, and the members of the Olympic team preparing for the trip to Paris.
+Ambassador Tegla Loroupe visited Juba, South Sudan on June 6 to meet with the Ministry of Youth and Sport, and the members of the Olympic team preparing for the trip to Paris.
 
 After years of training in the Ngong Tegla Loroupe Olympic Training Centre, the successful athletes welcomed their inspiration and coach.

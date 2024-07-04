@@ -120,7 +120,7 @@ main:
   - name: Slides
     identifier: slides
     parent: media_center
-    pageRef: /slides
+    pageRef: /slides/_index
     weight: 47
   
   - name: Support/Join Us

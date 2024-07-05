@@ -4,8 +4,8 @@ type: landing
 sections:
   - block: portfolio
     content:
-      title: Slides Listed
-      subtitle: In Date Order
+      title: List of Slide Decks
+      subtitle: In Date Order; will link to Talks
       text: 
       count: 50
       filters:

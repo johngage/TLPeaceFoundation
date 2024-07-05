@@ -89,9 +89,9 @@ main:
     pageRef: project/project-build-new-dormitory-at-kapenguria-school
     weight: 34
 
-  - name: Media Center
+  - name: Media
     identifier: media_center
-    url: /post
+#   url: /post
     weight: 40
   - name: Newsletters
     identifier: newsletters
@@ -118,9 +118,8 @@ main:
     pageRef: /post
     weight: 44
   - name: Slides
-    identifier: slides
     parent: media_center
-    pageRef: /slides/_index
+    pageRef: /slides/
     weight: 47
   
   - name: Support/Join Us

@@ -33,7 +33,7 @@ design:
 
 TLPF is a charitable organization focused on **restoring peace and fostering economic empowerment among pastoralists**. It was established in 2003 by Tegla Loroupe, a Kenyan marathon legend and the Foundation’s President. Essentially, TLPF works to rebuild social relations and develop trust among communities at war over scarce water, scarce pasture, and resources for their herds and crops. Climate change threatens increasingly fragile livelihoods and families in some of the world's most impoverished nomadic communities.
 
-Fifteen years of **Peace Races** showcase sports as an alternative economic livelihood pathway to the warrior's traditional practice of cattle rustling, with the creation of a Warrior's Training Center for those who put down their weapons and choose peace.
+Twenty-one years of **Peace Races** have established sports as an alternative economic livelihood pathway to the warrior's traditional practice of cattle rustling. The Warrior's Training Center retrains those who put down their weapons and choose peace, offering opportunities in competing, training, ranching, farming, and other occupations.
 
 The **Peace Races** gather a broad community, and are designed to increase awareness of girl child rights, to foster education, and champion peace and cooperation as the future for all tribes. Peace demands a fundamental change in the perception of pastoralists towards cattle raiding as a form of livelihood.
 
@@ -63,11 +63,11 @@ President of the The Tegla Loroupe Peace Foundation
 
 {{< video src="https://www.facebook.com/100064382365481/videos/pcb.854474226708648/423186307387426" controls="yes" >}}
 
-[Ambassador Loroupe in Juba, South Sudan: June, 2024, Olympic Team celebration](https://www.facebook.com/100064382365481/videos/pcb.854474226708648/423186307387426)
+[See Ambassador Loroupe in Juba, South Sudan: The June, 2024, Olympic Team celebration](https://www.facebook.com/100064382365481/videos/pcb.854474226708648/423186307387426)
 
 
 <hr>
-The Tegla Loroupe Peace Foundation main office is in Nairobi, in a new location in Lavington.  
+The Tegla Loroupe Peace Foundation main office is in Nairobi, in a new location in Lavington, off Mbaaki Road.  
 
 <hr>
 

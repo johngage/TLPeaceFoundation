@@ -16,7 +16,7 @@ sections:
         </div> 
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
-        label: Visit our Facebook page for latest news
+        label: Please visit our Facebook page for latest news
         url: https://www.facebook.com/teglapeacefoundation/  
     design:
       # Choose an optional background color, gradient, image, or video
@@ -35,9 +35,6 @@ sections:
         padding: ['10%', '5%', '10%', '5%']
       css_class: fullscreen
         
-        
-
-  
  
   - block: collection
     id: posts
@@ -71,8 +68,6 @@ sections:
       # Choose single or dual column layout
       columns: '1'
   
- 
-
 
   - block: people
     content:
@@ -205,7 +200,7 @@ sections:
       subtitle: 'Adding Swahili, Pokot, Marakwet, Turkana versions of these slides'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         # The folders to display content from

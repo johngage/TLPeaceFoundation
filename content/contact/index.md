@@ -21,8 +21,8 @@ sections:
         country: Kenya
         country_code: US
       coordinates:
-        latitude: '-1.276389'
-        longitude: '36.777000'
+        latitude: '-1.293167'
+        longitude: '36.763150'
       directions: Enter Building 
       office_hours:
         - 'Monday 9:00 to 16:00'

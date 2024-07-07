@@ -3,17 +3,19 @@ menu:
 main:
   - name: Home
     url: '#'
-    weight: 10
+    weight: 1
+# This main menu item appears in the navigation bar. It points to the home page section.
+# First dropdown menu header with submenu items; to the right of Home.
   - name: About Us
     identifier: about
-    url: /AB
+#    url: /AB # Main menu entry does not have a URL. It is a dropdown menu header.
     weight: 10
+#  Submenu items for the first dropdown menu header.
   - name: Who We Are
     pageRef: /AB
     parent: about
     weight: 10.5
   - name: Ambassador Tegla Loroupe
-    identifier: TL
     parent: about
     pageRef: post/ambassador-tegla-loroupe
     weight: 11
@@ -26,61 +28,54 @@ main:
     url: project/new-faculty-at-kapenguria-peace-academy
     weight: 13
   - name:  Partners
-    identifier: partners
     parent: about
     url: post/our-partners
     weight: 14
   - name:  North Rift Peace Initiative
-    identifier: section-one
     parent: about
     url: /#section-1
     weight: 15
+
+# Second dropdown menu header: Overview
   - name:  Overview
     identifier: overview
-    url: /overview
     weight: 20
+# Submenu items for the second dropdown menu header.
   - name: Mission
-    identifier: mission
     parent: overview
     url: /overview/mission
     weight: 21
   - name: Vision
-    identifier: vision
     parent: overview
     url: /overview/vision
     weight: 22
   - name: History
-    identifier: history
     parent: overview
     url: /overview/history
     weight: 23
   - name: Foundation Values
-    identifier: foundation
     parent: overview
     url: tags/academic/
     weight: 24
   - name: Governance and Management
-    identifier: governance
     parent: overview
     url: /overview/governance
     weight: 25
-  
+
+# Third dropdown menu header: Projects
   - name: Projects
     identifier: projects
-    pageRef: /project
     weight: 30
+# Submenu items for the third dropdown menu header.
   - name: Kapenguria Peace Academy Faculty
-    identifier: allprojects
     parent: projects
     pageRef: project/new-faculty-at-kapenguria-peace-academy
     weight: 31
   - name: Kakuma Refugee Camp Family Center
-    identifier: currentprojects
     parent: projects
     pageRef: project/refugee-camp-family-center
     weight: 32
   - name: Sports Training Center
-    identifier: success
     parent: projects
     pageRef: project/the-tegla-loroupe-sports-training-center
     weight: 34
@@ -89,12 +84,12 @@ main:
     pageRef: project/project-build-new-dormitory-at-kapenguria-school
     weight: 34
 
+# Fourth dropdown menu header: Media
   - name: Media
     identifier: media_center
-#   url: /post
     weight: 40
-  - name: Newsletters
-    identifier: newsletters
+# Submenu items for the fourth dropdown menu header.
+  - name: Posts
     parent: media_center
     pageRef: /post
     weight: 41
@@ -103,17 +98,14 @@ main:
     pageRef: /blog
     weight: 45
   - name: Gallery
-    identifier: gallery
     parent: media_center
     pageRef: /tour
     weight: 46
-  - name: Recent Activities
-    identifier: recent
+  - name: Recent Events
     parent: media_center
     pageRef: /event
     weight: 43
   - name: Reports
-    identifier: reports
     parent: media_center
     pageRef: /post
     weight: 44
@@ -121,27 +113,26 @@ main:
     parent: media_center
     pageRef: /slides/
     weight: 47
-  
+
+# Fifth dropdown menu header: Support/Join Us
   - name: Support/Join Us
     identifier: support
-    pageRef: /donate
     weight: 50
+# Submenu items for the fifth dropdown menu header.
   - name: Current Project Highlights
-    identifier: currenthighlights
     parent: support
     pageRef: /donate
     weight: 51
   - name: Payment Details
-    identifier: paymentdetails
     parent: support
     url: /donate/donation-details
     weight: 52
+
+#  Sixth dropdown menu header: Contact Us
   - name: Contact Us
     identifier: contact
-    url: contact/
     weight: 60
   - name: Contact Form
-    identifier: contactform
     parent: contact
     url: contact/
     weight: 61
@@ -151,10 +142,11 @@ main:
     url: contact/#contact
     weight: 62
   - name: FAQ
-    identifier: faq
     parent: contact
     url: contact/
     weight: 63
+
+# Seventh dropdown menu header: moved to right, for smaller screens
 main_right:
   - name: Courses
     identifier: courses

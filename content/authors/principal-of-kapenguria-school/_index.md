@@ -1,9 +1,12 @@
 ---
-title: Principal of Kapenguria school
+title: Principal of Peace Academy school
 avatar_filename: avatar
 social: []
 superuser: false
 user_groups:
-  - KapenguriaAcademy
+  - Peace Academy
 ---
-Kapenguria
+# Kapenguria Peace Academy
+## Thirty faculty members
+## One hundred tutors 
+## Staff: Dining, Residence

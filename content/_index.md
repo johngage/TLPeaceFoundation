@@ -3,7 +3,12 @@
 title:  
 date: 2024-06-27
 type: landing
-
+# This is the home page. Each block of this file is a "section" of the home page, which you see by scrolling down.
+# Different blocks have different templates that make them.
+# "hero" has buttons, images as background; 
+# "collection" will show all the pages in a directory
+# "people" will pull all the entries in the /author directory, group them by tag, and display images of people
+# "tag-cloud" will look in a list of tags, find tags in front matter, and show the most used tags
 sections:
 
   - block: hero
@@ -71,7 +76,8 @@ sections:
 
   - block: people
     content:
-      title: Our Athletes, Our Leaders, Our Students
+      title: Our Athletes, Our Leaders, Our Teachers
+  # Use these group names in each /authors branch; in _index.md file front matter, in user_group
       user_groups:
         - Staff
         - Board
@@ -81,7 +87,7 @@ sections:
         - Athletes
         - South Sudan
         - Ngong Training Camp
-        - Kapenguria Academy
+        - Peace Academy
         - Olympics
       sort_by: Params.last_name
       sort_ascending: true

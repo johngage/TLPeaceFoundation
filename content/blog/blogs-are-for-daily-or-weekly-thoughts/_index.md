@@ -10,7 +10,7 @@ summary: >-
   The Blog should be for short articles about what's going on, or reflections on the past, or longer pieces describing what the training program is for the Iten training session, or  a summary of what happened as a result of AirBnB making a video, or an article about what is needed to improve the training track in Ngong.
 draft: false
 ---
-Thursday, February 18. 2021, updated 17 May 2023
+Thursday, February 18. 2021, updated 17 May 2023, again 2024-12-18
 
 Brian Wasike is building an editorial staff for TLPF, to update our web site with the newest developments of the IAAF/IOC Refugee Olympic Team, now training in Ngong, Kenya.
 

@@ -5,6 +5,10 @@ date: 2021-01-30
 ---
 # How the **Tegla Loroupe Peace Foundation** website is structured
 
+
+
+**We are a globally published website, supported by Netlify, Github, Cloudflare, and secure sites in 150 countries.**
+
 ## Note: July, 2025: There is a new online editing system, DeCap CMS, 
 
 Editing is in the cloud, supported by our web publishing partner, **Netlify**. That's why our current web address is [https://teglaloroupepeacefoundation.netlify.app](https://teglaloroupepeacefoundation.netlify.app/)/

@@ -5,11 +5,11 @@ date: 2021-01-30
 ---
 # How the **Tegla Loroupe Peace Foundation** website is structured
 
-## Note: July,2025: There is a new online editing system, DeCap CMS, 
+## Note: July, 2025: There is a new online editing system, DeCap CMS, 
 
 Editing is in the cloud, supported by our web publishing partner, **Netlify**. That's why our current web address is [https://teglaloroupepeacefoundation.netlify.app](https://teglaloroupepeacefoundation.netlify.app/)/
 
-To access the editor, you log in to **Netlify**.  We'll set that up.
+To access the editor, you log in to **Netlify**.  Titus Peguin controls access.
 
 You are presented with *DeCap*, the open source content-management system  (CMS) supported by **Netlify**.  The interface displays a form for each page, allowing you to edit the text, the title, and the images displayed on the page.
 

@@ -4,16 +4,18 @@ subtitle: Drawings and cost estimates to add new three-story dormitory
 date: 2021-01-26T06:39:15.719Z
 draft: false
 featured: false
-tag: ["school"]
-category: ["school"]
 authors:
   - Lam Joar
 external_link: https://web.archive.org/web/20190221072505/http://teglapeacefoundation.org/
 links: []
+tag:
+  - school
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
+category:
+  - school
 ---
 ### 2023 State of the School
 
@@ -29,3 +31,4 @@ image:
 
 ### Gardens that feed the school
 - Show the garden plans, and the community and parental volunteers.
+- Show the Kenya Telecom tower above us, and discuss our access to global knowledge, including the new AI world to enable multi-lingual instruction, by our link to the global internet.

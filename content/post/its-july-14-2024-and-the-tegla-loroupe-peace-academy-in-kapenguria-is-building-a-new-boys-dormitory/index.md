@@ -1,5 +1,5 @@
 ---
-title: It's July 14, 2024, and the Tegla Loroupe Peace Academy in Kapenguria is
+title: It's July 14, 2025, and the Tegla Loroupe Peace Academy in Kapenguria is
   building a new boy's dormitory
 subtitle: Please help us finish construction
 date: 2025-07-14T09:27:00.000Z

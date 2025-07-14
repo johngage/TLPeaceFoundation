@@ -9,7 +9,7 @@ date: 2021-01-30
 
 **We are a globally published website, supported by Netlify, Github, Cloudflare, and secure sites in 150 countries.**
 
-## Note: July, 2025: There is a new online editing system, DeCap CMS, 
+## Note: July, 2025: There is a new online editing system, DeCap CMS, and Titus Peguin will see how he thinks this works.
 
 Editing is in the cloud, supported by our web publishing partner, **Netlify**. That's why our current web address is [https://teglaloroupepeacefoundation.netlify.app](https://teglaloroupepeacefoundation.netlify.app/)/
 

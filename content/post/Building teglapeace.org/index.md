@@ -29,7 +29,7 @@ Each time we create a new post, for example, the CMS system creates a new folder
 2. All content is permanently stored in an independent site, named **Github.** Currently, it's in what's called a **repository** in my account at **Github**, but we will create a TLPF repository, governed by TLPF. It's all free.  Millions of people use **Github** to store all their software. Microsoft bought them a few years ago, and happily have not ruined them.
 
    As content is added or changed, *DeCapCMS* keeps track. Finally, when you are ready to "Publish", you click on the "Publish" button, and DeCap *CMS* gathers everything together, and moves it to where is is permanently stored.
-3. Since all the content is there, you can also edit it using the **Github** editor, which is a different discussion.  Since the **Github** repository is linked to the *NetlifyCMS*, any changes made to the content at **Github** is instantly visible at the *NetlifyCMS*
+3. Since all the content is there, you can also edit it using the **Github** editor, which is a different discussion.  Since the **Github** repository is linked to Netlify and  *DeCap*, any changes made to the content at **Github** is instantly visible at the *DeCap*
 4. I'm making an outline course for the learning process for our **TLPF Webmaster.** You can get a quick idea from this video that describes what someone needs to know to be able to get a job as a Webmaster.
 
 Here's the video to watch, to get the overall idea of what's needed: [Web Development 2021](https://www.youtube.com/watch?v=VfGW0Qiy2I0&ab_channel=TraversyMedia)
@@ -92,7 +92,7 @@ The curly brackets are the magical commands that the Wowchemy software looks for
 
 ##### How are images displayed?
 
-The important thing for the Wowchemy software to know is exactly where the image is stored. It might be in the same folder as the text, which is in a file named "index.md", so the "src=tl.logo.png" means the image is there, next to "index.md" , or it might be in a special folder just for images available to all pages, which is why the words 'library="true" 'are inside the curly brackets.
+The important thing for the software to know is exactly where the image is stored. It might be in the same folder as the text, which is in a file named "index.md", so the "src=tl.logo.png" means the image is there, next to "index.md" , or it might be in a special folder just for images available to all pages, which is why the words 'library="true" 'are inside the curly brackets.
 {{% callout note %}} 
 
 Found the source code for gallery. It's either local or static/media. Here's location.

@@ -17,6 +17,8 @@ Our existing dormitory and kitchen is expanding, and we have started constructio
 
 We now house and teach over three hundred boys and girls. Those without parents have an expanding group of resident counselors and dormitory teachers.
 
-{{< figure library=“true” src=“kap.race.2019.png” title=“Kapenguria Peace Race 2018” >}}. 
+{{< figure library=“true” src=“Kap.Academy.class.jpg” title=“Kapenguria Peace Academy” >}}. 
 
 Place image of main building.
+
+assets/media/Kap.Academy.class.jpg

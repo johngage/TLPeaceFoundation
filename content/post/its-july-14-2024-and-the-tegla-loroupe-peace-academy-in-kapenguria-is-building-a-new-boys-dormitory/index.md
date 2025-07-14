@@ -13,7 +13,7 @@ image:
 ---
 The Tegla Loroupe Peace Academy has been expanding at our beautiful site in Kapenguria.  **Please come visit.**
 
-Our existing dormitory and kitchen is expanding, and we have started construction on a new boy's dormitory.
+Our existing dormitory and kitchen is expanding, and we have started construction on a new boy's dormitory, slightly north of the main dormitory.
 
 We now house and teach over three hundred boys and girls. Those without parents have an expanding group of resident counselors and dormitory teachers.
 

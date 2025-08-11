@@ -19,7 +19,7 @@ category:
 ---
 ### 2023 State of the School
 
-* Original design
+* Show the original design
 
   - Show the original plan, the models of the buildings, the dining hall, and the training facility. The drawings are now in the Lavington office, in the file archives.
 

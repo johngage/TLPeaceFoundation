@@ -1,5 +1,5 @@
 ---
-title: California-Kenya Partnership on Climate with Ali Mohamed
+title: California-Kenya Partnership on Climate with Ali Mohamed - Nairobi Kenya.
 subtitle: International meeting on forest futures and climate cooperation
 date: 2025-08-11T13:22:00.000+03:00
 draft: false
